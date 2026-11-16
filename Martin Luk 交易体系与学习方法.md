@@ -125,4 +125,18 @@ ADR 是平均日振幅，描述股价一天通常走多远。Martin 偏好热门
 | 6 | 你发来的三场直播：[Google、QQQ 与市场条件](https://www.youtube.com/watch?v=CTHrTYHqZTw&t=2041s) · [盘中 VWAP 与止损](https://www.youtube.com/watch?v=enPWrvGoE60&t=3826s) · [TSLA 相对强势与缺口](https://www.youtube.com/watch?v=NUT6d6Hvbmw&t=3099s) | 用于对照真实盘口中的取舍。举例说，Google 那段是「如果继续跌到过去有支撑的周线 150，并且指数也进一步下探，交易会更吸引他」的条件推演；提到 QQQ 周线 50 附近时也用了假设口吻。 |
 | 7 | [Martin 的交易日志问答：原直播 2:46:29](https://www.youtube.com/watch?v=BTZ9bk3JVhA&t=9989s) · [粉丝站的编辑整理](https://martinluk.com/qa/BTZ9bk3JVhA-25977) | 想看日志如何落笔，重点听他怎样分开评价入场与离场，以及怎样把大赢家和同期板块、指数放在一起看。粉丝站适合定位，措辞以原视频为准。 |
 
-**材料边界。** 案例讲的是 Martin 在对应市场环境下的判断，书面材料与长访谈跨越不同年份。视频时间戳定位到讨论片段，自动字幕偶有把 EMA 周期、股票代码和 AVWAP 听错的情况。文中只在能从原文或上下文确认时使用具体数字；「哪条均线反弹概率更大」保留为他的观察，没有把它写成可复现的胜率。
+## 八、Qullamaggie 三种交易形态的原文摘要
+
+补充于 2026 年 11 月 16 日。以下概括 Qullamaggie 这篇文章的规则，阅读时注意作者与发表时期。[原文：3 TIMELESS setups](https://qullamaggie.com/my-3-timeless-setups-that-have-made-me-tens-of-millions/)
+
+| 形态 | 筛选与入场 | 止损与退出 |
+|---|---|---|
+| 突破（Breakout） | 强股上涨后回调整理、低点抬高且区间收紧，突破开盘区间高点时买入。 | 当日低点止损，距离控制在正常日振幅内。3–5 天后卖出约三分之一至一半，余仓用 10 或 20 日均线跟踪。 |
+| 事件驱动（EP） | 意外利好带来约 10% 以上跳空与显著放量，突破开盘区间高点入场。 | 当日低点止损，后续使用均线跟踪。原文对 EP 的退出列有多种选择。 |
+| 加速上涨后的反转做空（Parabolic Short） | 连续急涨后，等盘中向下破位，或初次下跌后反抽 VWAP 受阻。 | 以当日高点或重新站回 VWAP 判断失效，关注 10、20 日均线附近的回补机会。 |
+
+上述规则出处均为同一篇原文，各节附有历史图例。[查看原文与图表](https://qullamaggie.com/my-3-timeless-setups-that-have-made-me-tens-of-millions/)
+
+他的学习方式是长期整理历史案例。文中自述用 Evernote 积累数千张图，持续七八年，耗时超过一千小时。研究时可以分别记录形态背景、实际触发和失效位置，再比较成功与失败样本。[原文末段的学习说明](https://qullamaggie.com/my-3-timeless-setups-that-have-made-me-tens-of-millions/)
+
+**材料边界。** 案例讲的是各作者在对应市场环境下的判断，书面材料与长访谈跨越不同年份。视频时间戳定位到讨论片段，自动字幕偶有把 EMA 周期、股票代码和 AVWAP 听错的情况。文中只在能从原文或上下文确认时使用具体数字；「哪条均线反弹概率更大」保留为他的观察，没有把它写成可复现的胜率。
